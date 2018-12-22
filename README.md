@@ -1,2 +1,2 @@
 # IHM
-Cours d'IHM à Telecom Saint-Etienne
+Voir https://github.com/ManonPORTAY/MonAppliIHM
